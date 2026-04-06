@@ -124,5 +124,5 @@ En este laboratorio confirmé que la información en disco se trabaja por bloque
 - `disk_io_lab_guided.ipynb`
 - `README.md`
 - Carpeta `images/` con las gráficas generadas automáticamente
-=======
+
 # lab3-IO_performance-FaberPalacio
